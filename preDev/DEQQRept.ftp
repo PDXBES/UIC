@@ -1,0 +1,8 @@
+open deqftp.deq.state.or.us
+user
+uic0001
+7131265
+put DB_report_20100601_Final.doc
+put DB_report_20100601_Final.pdf
+put UICPortland2000_20100601.mdb
+quit
